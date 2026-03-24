@@ -1,0 +1,5 @@
+store currect time in database
+call info fro database
+change password
+forgotten password
+email must not be used for two accounts
